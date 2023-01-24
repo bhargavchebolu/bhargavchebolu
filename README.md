@@ -7,7 +7,7 @@ Tools: Python, R, SQL, Tableau, Microsoft Excel
 - 🌍  I'm based in Stuttgart, Germany
 - 📫  How to reach me: bhargavchebolu@gmail.com
 - 💻  Currently working on Data Analysis and Data Visualization projects and building Portfolio
--  
+
 
 <!--
 **bhargavchebolu/bhargavchebolu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
