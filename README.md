@@ -2,7 +2,7 @@
 
 Seeking an opportunity to blend my newfound data analysis skills with existing business knowledge to bring unique insights as an Entry-level data analytics professional.
 
-Tools: Python, R, SQL, Tableau, Microsoft Excel
+Tools: Python, R, SQL, POWER BI, Tableau and Microsoft Excel
 
 - 🌍  I'm based in Stuttgart, Germany
 - 📫  How to reach me: bhargav2227@gmail.com
