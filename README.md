@@ -5,7 +5,7 @@ Seeking an opportunity to blend my newfound data analysis skills with existing b
 Tools: Python, R, SQL, Tableau, Microsoft Excel
 
 - 🌍  I'm based in Stuttgart, Germany
-- 📫  How to reach me: bhargavchebolu@gmail.com
+- 📫  How to reach me: bhargav2227@gmail.com
 - 💻  Currently working on Data Analysis and Data Visualization projects and building Portfolio
 
 
