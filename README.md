@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Bhargav Anand Chebolu
 
-Seeking an opportunity to blend my newfound data analysis skills with existing business knowledge to bring unique insights as an Entry-level data analytics professional.
+Seeking an opportunity to blend my newfound data analysis skills with existing business knowledge to bring unique insights.
 
 Tools: Python, R, SQL, Microsoft Power BI, Tableau and Microsoft Excel
 
