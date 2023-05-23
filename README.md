@@ -1,12 +1,12 @@
 ## Hi there 👋 My name is Bhargav Anand Chebolu
 
-Seeking an opportunity to blend my newfound data analysis skills to bring unique insights.
+Seeking an opportunity to blend my newfound data analysis and programming skills.
 
-Tools: Python, R, SQL, Microsoft Power BI, Tableau and Microsoft Excel
+Tools: Python, R, SQL, Microsoft PowerBI, Tableau and Microsoft Excel
 
 - 🌍  I'm based in Stuttgart, Germany
 - 📫  How to reach me: bhargav2227@gmail.com
-- 💻  Currently working on Data Analysis and Data Visualization projects and building Portfolio
+- 💻  Currently working on Data Analysis and Python projects
 
 
 <!--
