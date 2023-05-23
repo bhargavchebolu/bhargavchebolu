@@ -2,7 +2,7 @@
 
 Seeking an opportunity to blend my newfound data analysis and programming skills.
 
-Tools: Python, R, SQL, Microsoft PowerBI, Tableau and Microsoft Excel
+Tools: Python, SQL, Microsoft PowerBI, Tableau, HTML, CSS and Microsoft Excel
 
 - 🌍  I'm based in Stuttgart, Germany
 - 📫  How to reach me: bhargav2227@gmail.com
