@@ -6,7 +6,7 @@ Tools: Python, SQL, Microsoft PowerBI, Tableau, Machine Learning, Selenium
 
 - 🌍  I'm based in Stuttgart, Germany
 - 📫  How to reach me: bhargav2227@gmail.com
-- 💻  Currently working on data science projects
+
 
 
 <!--
