@@ -3,6 +3,7 @@
 Seeking an opportunity to blend my programming and data analysis skills.
 
 Skills: Data Analysis, Data Manipulation, Data Visualization, Programming, Machine Learning
+
 Tools: Python, SQL, Microsoft Power BI, HTML, CSS
 
 - 🌍  I'm based in Stuttgart, Germany
