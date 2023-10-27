@@ -2,7 +2,8 @@
 
 Seeking an opportunity to blend my programming and data analysis skills.
 
-Tools: Python, HTML, CSS, SQL, Microsoft Power BI
+Skills: Data Analysis, Data Manipulation, Data Visualization, Programming, Machine Learning
+Tools: Python, SQL, Microsoft Power BI, HTML, CSS
 
 - 🌍  I'm based in Stuttgart, Germany
 - 📫  How to reach me: bhargav2227@gmail.com
