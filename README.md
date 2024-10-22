@@ -1,13 +1,12 @@
 ## Hi there 👋 My name is Bhargav Anand Chebolu
 
-Working as Data Analyst
+Data Analyst
 
 Skills: Data Analysis, Data Manipulation, Data Visualization
 
 Tools: SQL Server, Microsoft Power BI, Python
 
 - 🌍  I'm based in Nuremberg, Germany
-- 📫  How to reach me: bhargav2227@gmail.com
 
 
 
