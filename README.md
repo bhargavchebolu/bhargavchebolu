@@ -2,9 +2,9 @@
 
 Data Analyst
 
-Skills: Data Analysis, Data Manipulation, Data Visualization
+Skills: Data Analysis, Data Modelling, Database Design, Data Visualization, Schema Design, Data Transformation 
 
-Tools: SQL Server, Microsoft Power BI, Python
+Tools: SQL Server, Microsoft Power BI, Python, Git, C#(Basic), Machine Learning (Basic)
 
 - 🌍  I'm based in Nuremberg, Germany
 
